@@ -10,7 +10,7 @@ import java.text.*;
 
  public class Review4 {
     public static void main(String[] args) throws Exception{
-        // Set the number format and initialize total cost to be 0
+        // Set the number format and initialize subtotal cost to be 0
         NumberFormat numberFormat = new DecimalFormat("0.00");
         double dblSubtotal = 0;
 
