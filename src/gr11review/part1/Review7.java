@@ -29,7 +29,7 @@ import java.io.*;
             if (theSentence.charAt(intNum) == ' '){
                 intSpaces++;
             }
-            // If there is an 'a' or 'A' add 1 to intNum
+            // If there is an 'a' or 'A' add 1 to intLetterA
             else if (theSentence.charAt(intNum) == 'a'){
                 intLetterA++;
             }
