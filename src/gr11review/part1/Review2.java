@@ -25,7 +25,7 @@ import java.io.*;
             System.out.println("Frisbee!");
         }
         else if (intChoice == 1){
-            System.out.println("Why isn’t your nose 12 inches long?");
+            System.out.println("Why isnt your nose 12 inches long?");
             System.out.println("Because then it would be a foot.");
         }
         else if (intChoice == 2){
